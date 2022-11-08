@@ -1,1 +1,5 @@
 Hoy realizaremos la ultima practica de git para continuar con Python 
+Inicializamos el repositorio 
+Vimos el estado 
+Luego adicionamos los archivos a Git 
+Realizamos un commit 
